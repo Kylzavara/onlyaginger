@@ -246,6 +246,7 @@ background: url("/wordpress/wp-content/themes/blankslate/images/small_brown_dots
 
 #container{
 	padding:10px;
-	padding-bottom:80px;  
+	padding-bottom:80px; 
+	min-height: 779px;
 }
 
